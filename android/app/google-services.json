@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594866774570",
+    "project_id": "firstprojectfb-bbf30",
+    "storage_bucket": "firstprojectfb-bbf30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594866774570:android:8559fd87c57432473bd953",
+        "android_client_info": {
+          "package_name": "com.example.firebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsLOYGrxSW6OTd2MzzO0nFKDe_pVSr3c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
